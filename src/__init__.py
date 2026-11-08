@@ -1,0 +1,2 @@
+"""NORMADATA Database Quality Studio."""
+
